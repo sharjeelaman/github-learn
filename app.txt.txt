@@ -1,2 +1,2 @@
-print("hello world")
+print("Started Task 1")
 Functionally Calculate Fees---> Day2
