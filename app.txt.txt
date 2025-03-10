@@ -1,1 +1,2 @@
 print("hello world")
+Functionally Calculate Fees---> Day2
